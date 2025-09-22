@@ -1,4 +1,4 @@
-# 🏫 School Management System
+#  School Management System
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)  
 [![Django](https://img.shields.io/badge/Django-5.2.5-green)](https://www.djangoproject.com/)  
@@ -7,7 +7,7 @@ A **comprehensive School Management System** built with Django that streamlines 
 
 ---
 
-## 🔹 Features
+##  Features
 
 - **Student Management:** Add, update, and track student profiles.  
 - **Teacher Management:** Manage teacher profiles and assign students and subjects.  
@@ -18,7 +18,7 @@ A **comprehensive School Management System** built with Django that streamlines 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Backend:** Django 5.2.5 (Python 3.13)  
 - **Database:** SQLite / MySQL  
@@ -27,7 +27,7 @@ A **comprehensive School Management System** built with Django that streamlines 
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
 
